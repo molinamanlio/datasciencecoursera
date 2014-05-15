@@ -6,7 +6,7 @@ $ mkdir ~/Hello-World
 
 cd ~/Hello-World
 # Changes the current working directory to your newly created directory
-
+# This is a Markdownfile
 git init
 # Sets up the necessary Git files
 # Initialized empty Git repository in /Users/you/Hello-World/.git/
